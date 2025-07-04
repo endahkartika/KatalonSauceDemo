@@ -38,3 +38,8 @@ This project contains automated UI test scripts built with **Katalon Studio** fo
       a. Double-click the suite (e.g. 01. Login)
       
       b. Click Run (green ▶️)
+
+---
+
+Note:
+Test Case SauceDemo : [Doc Test Case](https://docs.google.com/spreadsheets/d/1ej2q16nIeOosxq7ys775Bd8imHnnhiLBYRqJGgrG-pw/edit?gid=0#gid=0)
