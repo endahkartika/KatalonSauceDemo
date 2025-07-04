@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Finish CO without item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>747bdd30-83a3-4a36-b99c-3aeeed0f5a60</testCaseGuid>
+</TestCaseEntity>
